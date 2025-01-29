@@ -1,7 +1,7 @@
 name = "AISC360"
 uuid = "283598ca-122b-486e-a90f-e0b25bf00dc4"
 authors = ["Eduardo Ruy"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [compat]
 julia = "1.6.7"
